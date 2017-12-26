@@ -194,8 +194,8 @@
 
 
         intNum = intNum.substr(0, intSize);
-        console.log("intNum::::::::::::::::::::::::" + intNum);
-        console.log(decNum);
+        //console.log("intNum::::::::::::::::::::::::" + intNum);
+        //console.log(decNum);
 
         var dian = /\./g.test(tg.value) ? "." : "";
 
